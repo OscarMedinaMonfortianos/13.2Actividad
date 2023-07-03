@@ -1,0 +1,27 @@
+.ocultar{
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+.producto{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 10px;
+   
+    border-color:black ;
+    
+
+}
+.resultado {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.imgProducto{
+   width: 150px;
+   height: 190px;
+  
+
+    
+}
